@@ -8,7 +8,7 @@
 Sou dedicado, comprometido, apaixonado por tecnologia. Estou sempre buscando novos conhecimentos e os colocando em prática nos meus projetos pessoais.
 Amo desenvolver Front-End (Web).
 
-Estou trabalhando na LWM <br>
+Estou trabalhando na LWM como Técnico de Informática, mas atualmente estou em busca de uma oportunidade de estágio, PJ ou CLT para Desenvolvedor Web (Front-End). <br>
 Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente faço cursos online para aprimorar meus conhecimentos referente a programação Web (Front-End). <br>
 Buscando colaborar com projetos em Front-End utilizando HTML5, CSS3 / SASS, Bootstrap e JavaScript. <br>
 
