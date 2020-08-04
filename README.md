@@ -9,7 +9,7 @@ Sou dedicado, comprometido, apaixonado por tecnologia. Estou sempre buscando nov
 Amo desenvolver Front-End (Web).
 
 Estou trabalhando na LWM <br>
-Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente faço cursos online para aprimorar meus conhecimentos. <br>
+Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente faço cursos online para aprimorar meus conhecimentos referente a programação Web (Front-End). <br>
 Buscando colaborar com projetos em Front-End utilizando HTML5, CSS3 / SASS, Bootstrap e JavaScript. <br>
 
 Posso te ajudar com Desenvolvimento Front-End (voltado para iniciantes) e também com instalações de softwares e configurações de computadores (Windows). <br>
